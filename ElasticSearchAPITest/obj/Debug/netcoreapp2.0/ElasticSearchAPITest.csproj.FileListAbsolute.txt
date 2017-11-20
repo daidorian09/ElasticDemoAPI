@@ -1,0 +1,14 @@
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.deps.json
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.runtimeconfig.json
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.runtimeconfig.dev.json
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.dll
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.csprojResolveAssemblyReference.cache
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.csproj.CoreCompileInputs.cache
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.AssemblyInfoInputs.cache
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.AssemblyInfo.cs
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.pdb
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.dll
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\obj\Debug\netcoreapp2.0\ElasticSearchAPITest.pdb
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.Data.dll
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.Data.pdb
+C:\Users\PC-YIGIT\source\repos\ElasticSearchAPITest\ElasticSearchAPITest\bin\Debug\netcoreapp2.0\ElasticSearchAPITest.Data.dll.config
